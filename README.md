@@ -6,6 +6,8 @@ Fork repository
 
 Clone locally
 
+Modify .env file to match your requirements
+
 run 
 ```
 docker-compose up
